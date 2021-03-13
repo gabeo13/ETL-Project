@@ -27,9 +27,11 @@ According to the [Centers for Disease Control](https://www.cdc.gov/nchs/fastats/
 ---
 ## Data Attributes
 ![](Images/mongo_hf.png)
+
 *Figure 1: Screenshot of MongoDB Post in Heart_Failure Collection*
 
 ![](Images/mongo_s.png)
+
 *Figure 2: Screenshot of MongoDB Post in Stroke Collection*
 
 ---
